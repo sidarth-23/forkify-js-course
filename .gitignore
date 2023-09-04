@@ -1,3 +1,7 @@
+node_modules
+dist
+.parcel-cache
+.DS_Store
 # Logs
 logs
 *.log
@@ -89,6 +93,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
+node_modules
 dist
 
 # Gatsby files
